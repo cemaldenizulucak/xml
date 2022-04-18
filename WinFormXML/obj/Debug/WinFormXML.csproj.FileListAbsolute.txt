@@ -1,0 +1,10 @@
+C:\Users\uluca\OneDrive\Masaüstü\ders\Kodlar\AbstractInterface\WinFormXML\bin\Debug\WinFormXML.exe.config
+C:\Users\uluca\OneDrive\Masaüstü\ders\Kodlar\AbstractInterface\WinFormXML\bin\Debug\WinFormXML.exe
+C:\Users\uluca\OneDrive\Masaüstü\ders\Kodlar\AbstractInterface\WinFormXML\bin\Debug\WinFormXML.pdb
+C:\Users\uluca\OneDrive\Masaüstü\ders\Kodlar\AbstractInterface\WinFormXML\obj\Debug\WinFormXML.csprojAssemblyReference.cache
+C:\Users\uluca\OneDrive\Masaüstü\ders\Kodlar\AbstractInterface\WinFormXML\obj\Debug\WinFormXML.Form1.resources
+C:\Users\uluca\OneDrive\Masaüstü\ders\Kodlar\AbstractInterface\WinFormXML\obj\Debug\WinFormXML.Properties.Resources.resources
+C:\Users\uluca\OneDrive\Masaüstü\ders\Kodlar\AbstractInterface\WinFormXML\obj\Debug\WinFormXML.csproj.GenerateResource.cache
+C:\Users\uluca\OneDrive\Masaüstü\ders\Kodlar\AbstractInterface\WinFormXML\obj\Debug\WinFormXML.csproj.CoreCompileInputs.cache
+C:\Users\uluca\OneDrive\Masaüstü\ders\Kodlar\AbstractInterface\WinFormXML\obj\Debug\WinFormXML.exe
+C:\Users\uluca\OneDrive\Masaüstü\ders\Kodlar\AbstractInterface\WinFormXML\obj\Debug\WinFormXML.pdb
